@@ -1,6 +1,6 @@
 {
-  "name": "bookmarks",
-  "version": "0.0.0",
+  "name": "saved-to-pinboard",
+  "version": "0.0.1",
   "description": "Transfer bookmarks from saved.io to pinboard.in",
   "main": "./index",
   "author": "Brandon Chartier",
