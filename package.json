@@ -7,6 +7,7 @@
   "license": "ISC",
   "dependencies": {
     "coffee-script": "^1.7.1",
+    "node-pinboard": "^0.1.1",
     "request": "^2.37.0"
   },
   "scripts": {
